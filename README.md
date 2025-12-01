@@ -1,18 +1,18 @@
-# Olá, eu sou o Luan Sanct 👋
+# Olá, eu sou o Luan 👋
 
-Sou desenvolvedor Frontend focado em criar produtos que funcionam bem, escalam e são fáceis de manter.
+Sou desenvolvedor Frontend focado em criar aplicações escaláveis, performáticas e com excelente experiência de uso.
 
-Nos últimos 5 anos, tenho trabalhado para transformar designs complexos em interfaces performáticas. Para mim, código limpo não é vaidade, é necessidade para o projeto sobreviver a longo prazo.
+Meu foco é entregar valor, não apenas código. Busco sempre entender o impacto no negócio para propor as melhores soluções técnicas. Tenho forte atuação na ponte entre Design e Engenharia, garantindo viabilidade técnica desde o início, e atuo definindo padrões (testes, documentação, CI/CD) que mantêm o projeto saudável a longo prazo e reduzem a dívida técnica do time.
 
-### 🛠️ O que eu faço
-* **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3/Sass.
-* **Frameworks & Libs:** React (meu foco principal), Next.js, mas transito bem por Vue ou Angular se precisar.
-* **Qualidade:** Testes (Jest/Cypress), CI/CD e Code Review.
-* **Foco:** Acessibilidade, Performance (Core Web Vitals) e Arquitetura de Frontend.
+### 🛠️ Tech Stack & Ferramentas
+* **Core:** TypeScript, JavaScript (ES6+), HTML5, CSS3/Sass.
+* **Ecosystem:** React, Next.js, State Management (Redux/Zustand/Context).
+* **Qualidade:** Jest, Testing Library, Cypress.
+* **Arquitetura:** Micro-frontends, Design Systems e otimização de Performance (Web Vitals).
 
-### 💡 Como eu trabalho
-Gosto de entender o "porquê" antes do "como". Acredito muito na colaboração entre dev e design e tento sempre puxar a régua do time para cima, seja documentando processos ou trocando ideia sobre boas práticas.
+### 💡 O que estou estudando
+A tecnologia muda rápido, então mantenho uma rotina de atualização constante. No momento, estou me especializando em **Web Security & Frontend Hardening**, focando em boas práticas de segurança (OWASP, CSP, prevenção a XSS/CSRF) para blindar aplicações no client-side.
 
 ---
-📫 **Onde me encontrar:**
-[LinkedIn](criar-linkedin) • [Email](luan.sanct@gmail.com) • [Portfolio/Blog](colocar-meu-blog)
+📫 **Vamos conversar?**
+[LinkedIn](criar-linkedin) • [Email](luan.sanct@gmail.com) • [Portfolio/Site](ruidor.me)
