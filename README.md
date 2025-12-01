@@ -15,4 +15,4 @@ A tecnologia muda rápido, então mantenho uma rotina de atualização constante
 
 ---
 📫 **Vamos conversar?**
-[LinkedIn](criar-linkedin) • [Email](luan.sanct@gmail.com) • [Portfolio/Site](ruidor.me)
+[LinkedIn](criar-linkedin) • [Email](luansrodrigues@proton.me) • [Portfolio](ruidor.me)
