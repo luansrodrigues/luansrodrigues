@@ -15,4 +15,4 @@ A tecnologia muda rápido, então mantenho uma rotina de atualização constante
 
 ---
 📫 **Vamos conversar?**
-[LinkedIn](criar-linkedin) • [Email](mailto:luansrodrigues@proton.me) • [Portfolio](https://luansrodrigues.github.io/about/)
+[LinkedIn](criar-linkedin) • [Email](mailto:luansantos.dev@gmail.com) • [Portfolio](https://devluansantos.github.io/about/)
